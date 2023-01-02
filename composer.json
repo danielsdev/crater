@@ -1,0 +1,19 @@
+{
+    "name": "daniel/crater",
+    "description": "a simple library for logging",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Lima",
+            "email": "danielrlima2015@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Crater\\": "src/"
+        }
+    }
+}
