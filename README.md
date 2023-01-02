@@ -1,3 +1,7 @@
-projeto para estudar padrões de projeto
+# crater
 
-- Factory Method
+- A simple log manager for php projects
+
+## Installation
+
+## Basic Usage
